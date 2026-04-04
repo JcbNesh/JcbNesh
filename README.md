@@ -8,8 +8,10 @@
 
 ## 🚀 About Me
 
-* 🔹Experienced Full Stack Developer specializing in React.js, Tailwind CSS, and Node.js, with a strong passion for Data Science and Artificial Intelligence. Skilled in working with NumPy, Pandas, and TensorFlow to build data-driven and intelligent solutions.
-Strong academic background with notable achievements in computer science, algorithms, and AI-related coursework. Seeking opportunities to apply my skills in modern web development and DSAI to drive innovative technological advancements. 
+* 🔹<div style="margin-left: 20px;">
+      Experienced Full Stack Developer specializing in React.js, Tailwind CSS, and Node.js, with a strong passion for Data Science and Artificial Intelligence. Skilled in working with NumPy, Pandas, and TensorFlow to build data-driven and intelligent solutions.
+           Strong academic background with notable achievements in computer science, algorithms, and AI-related coursework. Seeking opportunities to apply my skills in modern web development and DSAI to drive innovative technological advancements.
+      </div>
 * 🔹 Currently preparing for **Oracle SQL Certification**
 * 🔹 Interested in **Data Sciene, Backend Development, Artificial Intelligence**
 
