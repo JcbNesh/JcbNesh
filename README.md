@@ -28,7 +28,7 @@ Strong academic background with notable achievements in computer science, algori
 * Excel
 * Power BI (or Tableau if you use)
 
-### 💻 Programming (optional)
+### 💻 Programming 
 
 * Python (For AI)
 * Javascript and  Its Libraires
