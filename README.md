@@ -1,8 +1,8 @@
 ## Hi there 👋
-# 👋 Hi, I'm [Yagub Ismayilli aka JCBNesh]
+# 👋 Hi, I'm Yagub Ismayilli aka JCBNesh
 
 💻 SQL Enthusiast | Data Analyst | Backend Learner | Data Scientist & AI Engineer
-📍 Based in [Azerbaijan]
+📍 Based in Azerbaijan
 
 ---
 
@@ -68,7 +68,7 @@ Strong academic background with notable achievements in computer science, algori
 ## 📫 How to reach me:
 
 * 📧 Email: [yagub.ismayilli@email.com](mailto:your@email.com)
-* 💼 LinkedIn: [https://www.linkedin.com/in/jcbnesh/]
+* 💼 LinkedIn: https://www.linkedin.com/in/jcbnesh/
 
 ---
 
