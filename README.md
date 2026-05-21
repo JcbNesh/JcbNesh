@@ -26,7 +26,7 @@
 ### 📊 Data Tools
 
 * Excel
-* Power BI (or Tableau if you use)
+* Power BI 
 
 ### 💻 Programming 
 
